@@ -3,7 +3,7 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sudo-make&show_icons=true&theme=dark&locale=en" alt="sudo-make" /></p>
 
-- 🔭 I’m currently working on [Capstone Project](https://github.com/sudo-make/Capstone-Project)
+- 🔭 I’m currently working on [Micro RPG](https://github.com/sudo-make/micro-rpg)
 
 - 🌱 I’m currently learning **Unreal Engine and C++**
 
