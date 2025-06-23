@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Unreal Engine and C++**
 
-- 👨‍💻 All of my projects are available at [https://www.callum-jamessmith.com](https://www.callum-jamessmith.com)
 
 - 💬 Ask me about **Anything Unity or C#**
 
-- 📫 How to reach me **callum@callum-jamessmith.com**
+- 📫 How to reach me **smith99@protonmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/u/1/d/e/2PACX-1vTeBsoP5b7dVH8GO_JlLbKgrj0-iR3od015JFOtAfJOrl8_5Gre6IbRK3U9JjVkObbzd-7RjRrupS_K/pub](https://docs.google.com/document/u/1/d/e/2PACX-1vTeBsoP5b7dVH8GO_JlLbKgrj0-iR3od015JFOtAfJOrl8_5Gre6IbRK3U9JjVkObbzd-7RjRrupS_K/pub)
 
 - ⚡ Fun fact **I love dragons! 🐲**
 
