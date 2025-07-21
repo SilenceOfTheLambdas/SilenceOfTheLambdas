@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Callum-James</h1>
+<div align="center">
+  <img src="https://github.com/SilenceOfTheLambdas/ProfileAssets/blob/main/README_Top_Banner.png?raw=true"/>
+</div>
 <h3 align="center">I Do Game Dev stuff</h3>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SilenceOfTheLambdas&show_icons=true&theme=dark&locale=en" alt="SilenceOfTheLambdas" /></p>
+<p>Welcome to my GitHub! Here you'll find all the projects I have worked on including University projects. I'm a pasionate game programmer and always enjoy learning new technologies and pushing myself. I mostly specialise in Unity but also
+have experience with Unreal, MonoGame, and Godot.</p>
 
-- 🔭 I’m currently working on Shards if Emberlight (A 3D turn-based RPG)
+---
+
+- 🔭 I’m currently working on **Runebreak (Working Title)**, an RPG platformer
+
+  [![Find the project here](https://img.shields.io/badge/Find_the_project_here-011627?style=for-the-badge&logo=unity&logoColor=C792EA)](https://github.com/SilenceOfTheLambdas/Runebreak) [![Tasks Board](https://img.shields.io/badge/Tasks_Board-011627?style=for-the-badge&logo=notion&logoColor=C792EA)](https://telling-plant-a02.notion.site/233098dd4e168063b01bcf9eed1be552?v=233098dd4e16803abaf0000c76cc3f7e)
 
 - 🌱 I’m currently learning **Unreal Engine and C++**
 
@@ -11,18 +18,28 @@
 
 - 📫 How to reach me **csmith99@protonmail.com**
 
-
 - ⚡ Fun fact **I love dragons! 🐲**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/callum-james-smith" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="callum-james-smith" height="30" width="40" /></a>
-</p>
+
+<a href="https://linkedin.com/in/callum-james-smith" target="blank">![Callum-James Smith](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SilenceOfTheLambdas&show_icons=true&theme=dark&locale=en&layout=compact" alt="SilenceOfTheLambdas" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SilenceOfTheLambdas&theme=dark" alt="SilenceOfTheLambdas" /></p> -->
+<div align="center">
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+![SilenceOfTheLambdas's Stats](https://github-readme-stats.vercel.app/api?username=SilenceOfTheLambdas&theme=nightowl&show_icons=true&hide_border=true&count_private=true) ![SilenceOfTheLambdas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SilenceOfTheLambdas&theme=nightowl&hide_border=true)
+
+</div>
+
+<img align="right" width="120" src="https://github.com/SilenceOfTheLambdas/ProfileAssets/blob/main/Pixel%20Art%20Dragon%20(BG).png?raw=true"/>
