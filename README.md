@@ -1,22 +1,21 @@
 <div align="center">
   <img src="https://github.com/SilenceOfTheLambdas/ProfileAssets/blob/main/README_Top_Banner.png?raw=true"/>
 </div>
-<h3 align="center">I Do Game Dev stuff</h3>
+<h3 align="center">Bsc. (Hon) - Software Engineer</h3>
 
-<p>Welcome to my GitHub! Here you'll find all the projects I have worked on including University projects. I'm a pasionate game programmer and always enjoy learning new technologies and pushing myself. I mostly specialise in Unity but also
-have experience with Unreal, MonoGame, and Godot.</p>
+<p>Welcome to my GitHub! Here you'll find all the projects I have worked on including University projects. I'm a pasionate software developer and always enjoy learning new technologies and pushing myself. I have expertise in Unity and MonoGame, but also have experience creating web applications in ASP.NET.</p>
 
 ---
 
-- 🔭 I’m currently working on a top-down ARPG prototype project.
+- 🔭 I’m currently working on: **Taskr - An ASP.NET Core Web App (Model‑View‑Controller) Kanban board**
 
-- 🌱 I’m currently learning **Unreal Engine and C++**
+- 🌱 I’m currently learning **ASP.NET and Entity Framework Core**
 
 - 💬 Ask me about **Anything Unity or C#**
 
-- 📫 How to reach me **SilenceOfTheLambdas@protonmail.com**
+- 📫 How to reach me **csmith99[at]protonmail.com**
 
-- ⚡ Fun fact **I love dragons! 🐲**
+- ⚡ Favourite Quote: **"I have only made this letter longer because I have not had the time to make it shorter"** - *Blaise Pascal*
 
 <h3 align="left">Connect with me:</h3>
 
@@ -26,9 +25,9 @@ have experience with Unreal, MonoGame, and Godot.</p>
 
 <div align="center">
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Rider](https://img.shields.io/badge/Rider-2ea44f?style=for-the-badge&logo=Rider) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![.NET](https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Rider](https://img.shields.io/badge/Rider-2ea44f?style=for-the-badge&logo=Rider) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
