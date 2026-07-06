@@ -20,7 +20,7 @@
 
 - 💬 Focus areas: Unity gameplay systems, MonoGame, C# tooling
 
-- 📫 How to reach me **[csmith99[at]protonmail.com](mailto:csmith99@protonmail.com)**
+- 📫 How to reach me **[silenceofthelambdas[at]protonmail.com](mailto:csmith99@protonmail.com)**
 
 - ⚡ Favourite Quote: **"I have only made this letter longer because I have not had the time to make it shorter"** - *Blaise Pascal*
 
